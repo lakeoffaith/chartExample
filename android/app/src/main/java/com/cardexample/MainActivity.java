@@ -1,7 +1,6 @@
 package com.cardexample;
 
 import com.facebook.react.ReactActivity;
-import com.github.xinthink.rnmk.ReactMaterialKitPackage;
 
 public class MainActivity extends ReactActivity {
 
@@ -11,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "cardExample";
+        return "chartExample";
     }
 }
